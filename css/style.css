@@ -495,13 +495,13 @@ body {
           clip-path: polygon(0 0, 100% 0, 100% 100%, 0 80%);
 }
 .tour-cards__img_1 {
-  background: #C3956A url(img/card1.png) center/cover no-repeat;
+  background: #C3956A url(../img/card1.png) center/cover no-repeat;
 }
 .tour-cards__img_2 {
-  background: #C3956A url(img/card2.png) center/cover no-repeat;
+  background: #C3956A url(../img/card2.png) center/cover no-repeat;
 }
 .tour-cards__img_3 {
-  background: #C3956A url(img/card3.png) center/cover no-repeat;
+  background: #C3956A url(../img/card3.png) center/cover no-repeat;
 }
 @media only screen and (max-width: 900px), (hover: none) {
   .tour-cards__img {
@@ -706,14 +706,14 @@ body {
 
 .book {
   height: 50rem;
-  background: linear-gradient(110deg, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.85) 54.9%, rgba(195, 149, 106, 0.2) 55%, rgba(161, 81, 0, 0.2) 55%), url(img/bg-form.jpg) center/cover no-repeat;
+  background: linear-gradient(110deg, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.85) 54.9%, rgba(195, 149, 106, 0.2) 55%, rgba(161, 81, 0, 0.2) 55%), url(../img/bg-form.jpg) center/cover no-repeat;
   box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.2);
   border-radius: 0.5rem;
   overflow: hidden;
 }
 @media only screen and (max-width: 900px) {
   .book {
-    background: linear-gradient(110deg, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.85) 100%, rgba(195, 149, 106, 0.2) 100%, rgba(161, 81, 0, 0.2) 55%), url(img/bg-form.jpg) center/cover no-repeat;
+    background: linear-gradient(110deg, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.85) 100%, rgba(195, 149, 106, 0.2) 100%, rgba(161, 81, 0, 0.2) 55%), url(../img/bg-form.jpg) center/cover no-repeat;
   }
 }
 
@@ -850,7 +850,7 @@ body {
 .header {
   position: relative;
   height: 95vh;
-  background: linear-gradient(90.05deg, rgba(195, 149, 106, 0.7) 0.03%, rgba(0, 0, 0, 0.7) 99.94%), url(img/header_background.jpg) center/cover no-repeat;
+  background: linear-gradient(90.05deg, rgba(195, 149, 106, 0.7) 0.03%, rgba(0, 0, 0, 0.7) 99.94%), url(../img/header_background.jpg) center/cover no-repeat;
   -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0 85%);
           clip-path: polygon(0 0, 100% 0, 100% 100%, 0 85%);
 }
@@ -1132,7 +1132,7 @@ body {
 
 .section-adventure {
   padding: 21rem 0;
-  background: linear-gradient(90.05deg, rgba(195, 149, 106, 0.7), rgba(0, 0, 0, 0.7)), url(img/section-adventure.jpg) center/cover no-repeat;
+  background: linear-gradient(90.05deg, rgba(195, 149, 106, 0.7), rgba(0, 0, 0, 0.7)), url(../img/section-adventure.jpg) center/cover no-repeat;
   -webkit-clip-path: polygon(0 0, 100% 15%, 100% 100%, 0 85%);
           clip-path: polygon(0 0, 100% 15%, 100% 100%, 0 85%);
 }
